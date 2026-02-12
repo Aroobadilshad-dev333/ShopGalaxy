@@ -17,9 +17,6 @@ It includes a navigation bar, hero section, product categories, and a footer.
 ## How to View
 Open index.html in any browser to see the project live.  
 
-## Live Demo
-[View Live Site]( https://aroobadilshad-dev333.github.io/ShopGalaxy/)
-
 *Created by:* AROOBA DILSHAD | Technologies: HTML, CSS
 
 
